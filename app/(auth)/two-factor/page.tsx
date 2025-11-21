@@ -36,7 +36,7 @@ export default function Component() {
 					setSuccess(true);
 					setError("");
 				} else {
-					setError("Invalid TOTP code");
+					setError("Invalid code");
 				}
 			});
 	};
