@@ -17,8 +17,8 @@ export default function Navbar() {
                 className="block h-10 w-auto"
                 height="250"
                 width="250"
-                src="/Logo.png"
-                alt="Logo"
+                src="public/Jeevan.png"
+                alt="JEEVAN CURE"
               />
             </Link>
             <div className="flex lg:hidden">
