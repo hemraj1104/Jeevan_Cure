@@ -29,7 +29,7 @@ export default function Footer() {
 
   const socialLinks = [
     {
-      href: "https://github.com/K-Khushal",
+      href: "https://github.com/hemraj1104/",
       ariaLabel: "github",
       icon: (
         <svg
@@ -45,7 +45,7 @@ export default function Footer() {
       ),
     },
     {
-      href: "https://x.com/KhushalK_dev",
+      href: "https://x.com/Hemrajpnchl",
       ariaLabel: "twitter",
       icon: (
         <svg
@@ -63,7 +63,7 @@ export default function Footer() {
       ),
     },
     {
-      href: "https://www.youtube.com/@codieguys",
+      href: "https://www.youtube.com/@hemrajpanchal04",
       ariaLabel: "youtube",
       icon: (
         <svg
@@ -143,11 +143,11 @@ export default function Footer() {
           <p className="text-sm text-body hover:text-primary-600 dark:hover:text-primary-500">
             Made with ❤️ by{" "}
             <Link
-              href="https://khushalkhandelwal.com/"
+              href="https://hemraj1104.github.io/Portfolio/"
               target="_blank"
               className="underline underline-offset-2"
             >
-              Khushal Khandelwal
+              Hemraj Panchal
             </Link>
           </p>
         </div>

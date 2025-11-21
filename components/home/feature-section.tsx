@@ -12,9 +12,9 @@ export default function FeatureSection() {
                   Build with latest technologies
                 </h2>
                 <p className="mt-6 text-body">
-                  Harum quae dolore inventore repudiandae? orrupti aut
-                  temporibus assumenda atque ab, accusamus sit, molestiae veniam
-                  laboriosam pariatur.
+                  Experience modern performance and reliability powered by: 
+                  Next.js 15, React, TypeScript, Prisma ORM, Tailwind CSS, 
+                  ShadCN UI, PostgreSQL (Neon), Vercel, JWT Authentication, and advanced Two-Factor Security.
                 </p>
               </div>
               <ul className="mt-8 divide-y border-y *:py-3 *:flex *:items-center *:gap-3">
