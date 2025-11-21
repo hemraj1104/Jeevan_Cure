@@ -17,7 +17,7 @@ export default function Navbar() {
                 className="block h-10 w-auto"
                 height="250"
                 width="250"
-                src="public/Jeevan.png"
+                src="/Jeevan.png"
                 alt="JEEVAN CURE"
               />
             </Link>
